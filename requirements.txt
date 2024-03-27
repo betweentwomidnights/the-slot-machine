@@ -1,0 +1,5 @@
+torch==2.1.0
+musiclang_predict
+gradio
+pyFluidSynth &> /dev/null
+midi2audio &> /dev/null

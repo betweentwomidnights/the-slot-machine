@@ -1,0 +1,13 @@
+*.midi
+*.wav
+*.mp3
+*.mid
+musiclang/
+*.pyc
+__pycache__/
+*.log
+*.swp
+.DS_Store
+audiocraft/
+font.sf2
+
